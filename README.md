@@ -11,6 +11,7 @@ The system converts raw conversation text into actionable data such as:
 ---
 
 ## Architecture
+<img src="docs/architecture.png" width="700">
 
 Input (call transcript)
 → LLM (phi3 via API)
